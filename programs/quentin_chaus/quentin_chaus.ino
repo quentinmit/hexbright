@@ -309,7 +309,7 @@ void loop() {
     }
     break;
   case MODE_DIM:
-    adjustLED(10);
+    adjustLED(4);
     break;
   case MODE_LEVEL:
     adjustLED(1);
